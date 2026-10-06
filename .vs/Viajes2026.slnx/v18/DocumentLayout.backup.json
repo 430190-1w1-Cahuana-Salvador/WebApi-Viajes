@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajeswebapi_repaso\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|solutionrelative:viajeswebapi_repaso\\controllers\\viajecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\data\\viajedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\data\\viajedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\data\\interfaces\\iviajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\data\\interfaces\\iviajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajeswebapi_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|solutionrelative:viajeswebapi_repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajeswebapi_repaso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CA5C8D9-0D43-3392-924F-D55B4AD313EF}|ViajesWebApi_Repaso\\ViajesWebApi_Repaso.csproj|solutionrelative:viajeswebapi_repaso\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\services\\viajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\services\\viajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\services\\iviajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\services\\iviajeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\domain\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\domain\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\data\\implementations\\viajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\data\\implementations\\viajerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\domain\\viajedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\domain\\viajedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|c:\\users\\salva\\documents\\repos-facu\\viajes_webapi_repaso\\viajesrepository\\domain\\excursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4CDCBE-E14A-7AAF-8C68-B2DCDC49E032}|ViajesRepository\\ViajesRepository.csproj|solutionrelative:viajesrepository\\domain\\excursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IViajeService.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Services\\IViajeService.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Services\\IViajeService.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Services\\IViajeService.cs",
+              "RelativeToolTip": "ViajesRepository\\Services\\IViajeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:12:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IViajeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\Interfaces\\IViajeRepository.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Data\\Interfaces\\IViajeRepository.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\Interfaces\\IViajeRepository.cs",
+              "RelativeToolTip": "ViajesRepository\\Data\\Interfaces\\IViajeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:39:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\Viaje.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Domain\\Viaje.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\Viaje.cs",
+              "RelativeToolTip": "ViajesRepository\\Domain\\Viaje.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:49:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\appsettings.json",
+              "RelativeDocumentMoniker": "ViajesWebApi_Repaso\\appsettings.json",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\appsettings.json",
+              "RelativeToolTip": "ViajesWebApi_Repaso\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T13:53:55.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViajeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\ViajeDbContext.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Data\\ViajeDbContext.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\ViajeDbContext.cs",
+              "RelativeToolTip": "ViajesRepository\\Data\\ViajeDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:56:18.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViajeController.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\Controllers\\ViajeController.cs",
+              "RelativeDocumentMoniker": "ViajesWebApi_Repaso\\Controllers\\ViajeController.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\Controllers\\ViajeController.cs",
+              "RelativeToolTip": "ViajesWebApi_Repaso\\Controllers\\ViajeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:17:25.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViajeService.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Services\\ViajeService.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Services\\ViajeService.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Services\\ViajeService.cs",
+              "RelativeToolTip": "ViajesRepository\\Services\\ViajeService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T17:12:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\Program.cs",
+              "RelativeDocumentMoniker": "ViajesWebApi_Repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesWebApi_Repaso\\Program.cs",
+              "RelativeToolTip": "ViajesWebApi_Repaso\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:35:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViajeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\Implementations\\ViajeRepository.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Data\\Implementations\\ViajeRepository.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Data\\Implementations\\ViajeRepository.cs",
+              "RelativeToolTip": "ViajesRepository\\Data\\Implementations\\ViajeRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:39:49.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViajeDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\ViajeDetalle.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Domain\\ViajeDetalle.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\ViajeDetalle.cs",
+              "RelativeToolTip": "ViajesRepository\\Domain\\ViajeDetalle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:47:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Excursion.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\Excursion.cs",
+              "RelativeDocumentMoniker": "ViajesRepository\\Domain\\Excursion.cs",
+              "ToolTip": "C:\\Users\\salva\\Documents\\Repos-Facu\\Viajes_WebApi_Repaso\\ViajesRepository\\Domain\\Excursion.cs",
+              "RelativeToolTip": "ViajesRepository\\Domain\\Excursion.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:43:25.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
